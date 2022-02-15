@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oscar Alejandro Navarro
+- 👀 I’m interested in web3 develope
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Web3 project 
+- 📫 How to reach me Twitter: @OscarDev3 and Telegram: @Sr_Dubai404 
