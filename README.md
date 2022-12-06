@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(Oscar Navarro)
+![MasterHead](https://thumbs.dreamstime.com/b/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-profession-211305984.jpg)
 <h1 align="center">Hi 👋, I'm Oscar A. Navarro</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif">
