@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/Sr_Navarro_404" target="blank"><img src="https://img.shields.io/twitter/follow/Sr_Navarro_404?logo=twitter&style=for-the-badge" alt="Sr_Navarro_404" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next js**
 
-- 🤝 I’m looking for help with **Frontend projects**
+- 🤝 I’m looking for help with **Fullstack projects**
 
-- 💬 Ask me about **react and angular**
+- 💬 Ask me about **React and Nextjs**
 
 - 📫 How to reach me **oscarnavarroaviles@gmail.com**
 
