@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:141414&height=160&section=header&text=Oscar%20Navarro&fontSize=46&fontColor=f1f5f9&fontAlignY=40&desc=Software%20Engineer%20·%20France%20🇫🇷&descAlignY=62&descSize=15&descColor=64748b" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:4b4b4b&height=160&section=header&text=Oscar%20Navarro&fontSize=46&fontColor=f1f5f9&fontAlignY=40&desc=Software%20Engineer%20·%20France%20🇫🇷&descAlignY=62&descSize=15&descColor=64748b" width="100%"/>
 </div>
 
 <div align="center">
@@ -68,5 +68,5 @@ Software Engineer based in France, specialized in building modern web products w
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:0a0a0a&height=100&section=footer&fontColor=334155" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:4b4b4b&height=100&section=footer&fontColor=334155" width="100%"/>
 </div>
